@@ -1,7 +1,5 @@
 <h1 align="center">COMP10001 Python Notes</h1>
 
-> You don't need to know everything in this document to create the Discord Bot - just skim through the document to remmind yourself of Python's Syntax
-
 ---
 <h2>Table of Contents</h2>
 <details>
