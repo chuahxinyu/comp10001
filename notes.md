@@ -66,7 +66,7 @@
   - `<=` less than or equal to
   - `>=` more than or equal to
   - `in`
-- Boolean Operators
+- Logical Operators
   - `not`
   - `and`
   - `or`
