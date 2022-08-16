@@ -1,6 +1,18 @@
 <h1 align="center"> COMP10001 - Foundations of Computing</h1>
 
-> tutorial resources
+## 🔗 Links Table
+|Week|Google Colab|Slides|Topics|
+|--|--|--|--|
+|Week 3|[Google Colab](https://colab.research.google.com/drive/13o5MSvhiKnr1rM6AlylziduG2JwH-REm?usp=sharing)| [Google Slides (with answers)](https://docs.google.com/presentation/d/11Te6n84zVXe1PVs2dLbz_RnGs-CcOhXTyqQoJuRbAZg/edit?usp=sharing)|Data Types, Variables, Arithmetic Operators|
+|Week 4|[Google Colab](https://colab.research.google.com/drive/1hJ70dFYe31nwMU51zYaEIsCwEZNsK87P?usp=sharing)|Google Slides (with answers)||
+|Week 5|[Google Colab](https://colab.research.google.com/drive/14UkPWCcxFWElB1yNRbJ2fgonOrJexYC3?usp=sharing)|Google Slides (with answers)||
+|Week 6|Google Colab|Google Slides (with answers)||
+|Week 7|Google Colab|Google Slides (with answers)||
+|Week 8|Google Colab|Google Slides (with answers)||
+|Week 9|Google Colab|Google Slides (with answers)||
+|Week 10|Google Colab|Google Slides (with answers)||
+|Week 11|Google Colab|Google Slides (with answers)||
+|Week 12|Google Colab|Google Slides (with answers)||
 
 ## ✨ About Tutorials
 * Try to come to tutorials regardless of whether or not you've watched lectures
@@ -26,16 +38,4 @@
     * use `Ctrl + Enter` or click on the run button (top left of the cell) to run the code in the cell
   * Feel free to add your own cells to write notes or experiment with some code!
 
-## 🔗 Links Table
-|Week|Google Colab|Slides|Topics|
-|--|--|--|--|
-|Week 3|[Google Colab](https://colab.research.google.com/drive/13o5MSvhiKnr1rM6AlylziduG2JwH-REm?usp=sharing)| [Google Slides (with answers)](https://docs.google.com/presentation/d/11Te6n84zVXe1PVs2dLbz_RnGs-CcOhXTyqQoJuRbAZg/edit?usp=sharing)|Data Types, Variables, Arithmetic Operators|
-|Week 4|[Google Colab](https://colab.research.google.com/drive/1hJ70dFYe31nwMU51zYaEIsCwEZNsK87P?usp=sharing)|Google Slides (with answers)||
-|Week 5|[Google Colab](https://colab.research.google.com/drive/14UkPWCcxFWElB1yNRbJ2fgonOrJexYC3?usp=sharing)|Google Slides (with answers)||
-|Week 6|Google Colab|Google Slides (with answers)||
-|Week 7|Google Colab|Google Slides (with answers)||
-|Week 8|Google Colab|Google Slides (with answers)||
-|Week 9|Google Colab|Google Slides (with answers)||
-|Week 10|Google Colab|Google Slides (with answers)||
-|Week 11|Google Colab|Google Slides (with answers)||
-|Week 12|Google Colab|Google Slides (with answers)||
+
