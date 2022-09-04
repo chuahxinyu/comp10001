@@ -7,7 +7,7 @@
 |Week 4|[Google Colab](https://colab.research.google.com/drive/1hJ70dFYe31nwMU51zYaEIsCwEZNsK87P?usp=sharing)|[Google Slides (with answers)](https://docs.google.com/presentation/d/1jnQJRLVLSBnHdf1Um5RZk6TVpo2ytbahmUDLtRw_08U/edit#slide=id.g14459075c0e_0_106)|Booleans, Relational & Logic Operators, and Conditionals (if Statements); Sequences, Indexing and Slicing; Functions|
 |Week 5|[Google Colab](https://colab.research.google.com/drive/14UkPWCcxFWElB1yNRbJ2fgonOrJexYC3?usp=sharing)|[Google Slides (with answers)](https://docs.google.com/presentation/d/1VH5XPKs5t7ikBQ1c0Vqp2mi2WYhS5yHXPIAtqWA6wIM/edit?usp=sharing)|Functions and Methods, Lists and Tuples, Loops|
 |Week 6|[Google Colab](https://colab.research.google.com/drive/198RF7ZT8-_eH7QEXCOdXiSZzIWR6D2Ht?usp=sharing)|Google Slides (with answers)|Dictionaries, Sets, None|
-|Week 7|Google Colab|Google Slides (with answers)||
+|Week 7|[Google Colab](https://colab.research.google.com/drive/1XFI-XnF71TmIwFCRB7ya-lNnOr7Nj34l?usp=sharing)|Google Slides (with answers)|Code Documentation|
 |Week 8|Google Colab|Google Slides (with answers)||
 |Week 9|Google Colab|Google Slides (with answers)||
 |Week 10|Google Colab|Google Slides (with answers)||
