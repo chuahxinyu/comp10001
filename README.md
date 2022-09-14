@@ -14,6 +14,8 @@
 |Week 11|Google Colab|Google Slides (with answers)||
 |Week 12|Google Colab|Google Slides (with answers)||
 
+* [Cheatsheet](./notes.md)
+
 ## ✨ About Tutorials
 * Try to come to tutorials regardless of whether or not you've watched lectures
 * I basically cloned each week's tute sheet into a Google Colab so yall can fill it up with answers, take down notes and write code all on the same document for easy reference in the future
