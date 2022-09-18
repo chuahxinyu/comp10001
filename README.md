@@ -9,7 +9,7 @@
 |Week 6|[Google Colab](https://colab.research.google.com/drive/198RF7ZT8-_eH7QEXCOdXiSZzIWR6D2Ht?usp=sharing)|[Google Slides (with answers)](https://docs.google.com/presentation/d/1vJA24SuyoVh8auylS-xSa7fUK8E-fUlJup3IOp_bmQo/edit?usp=sharing)|Dictionaries, Sets, None|
 |Week 7|[Google Colab](https://colab.research.google.com/drive/1XFI-XnF71TmIwFCRB7ya-lNnOr7Nj34l?usp=sharing)|[Google Slides (with answers)](https://docs.google.com/presentation/d/1tkKafIhiIXZnJoDiouZs3fmWFlaGGxUwX05uScg7ES8/edit?usp=sharing)|Code Documentation|
 |Week 8|[Google Colab](https://colab.research.google.com/drive/1WVVooHSSaUnrJ_LyoksnnGbtXjA7VfbU?usp=sharing)|[Google Slides (with answers)](https://docs.google.com/presentation/d/1yXhZhMYS-hVZc5td55rpiRARtmeXQjGMFEB7JahGHEo/edit?usp=sharing)||
-|Week 9|[Google Colab](https://docs.google.com/presentation/d/1tRioaMXDu6wpnr0d4UZqr4LV40J0GQwC4zk--_VqMBM/edit?usp=sharing)|Google Slides (with answers)||
+|Week 9|[Google Colab](https://colab.research.google.com/drive/1GMNwtkIue9z7GPfgYtSXqdVvBCEeirmA?usp=sharing)|Google Slides (with answers)||
 |Week 10|Google Colab|Google Slides (with answers)||
 |Week 11|Google Colab|Google Slides (with answers)||
 |Week 12|Google Colab|Google Slides (with answers)||
