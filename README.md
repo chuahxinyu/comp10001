@@ -1,5 +1,8 @@
 <h1 align="center"> COMP10001 - Foundations of Computing</h1>
 
+## Some plugs
+[![](./HM_Hackiethon_2022_promo_poster_(297__210mm)_(210__297mm).png)](https://hackiethon.hackmelb.org/)
+
 ## 🔗 Links Table
 |Week|Google Colab|Slides|Topics|
 |--|--|--|--|
