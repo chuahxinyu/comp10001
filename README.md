@@ -1,7 +1,24 @@
 <h1 align="center"> COMP10001 - Foundations of Computing</h1>
 
-## Some plugs
-[![](./HM_Hackiethon_2022_promo_poster_(297__210mm)_(210__297mm).png)](https://hackiethon.hackmelb.org/)
+## 🔌 Some Plugs
+[![](./WIT%20Free%20Lunch%20QR.png)](https://fb.me/e/2Ze591QAq)
+<pre>
+Feel a bit drained after a long period of study?🥵😵‍💫📚 We know that you need a break from the stress of uni😈🥸 Come down to PAR-Arts West North Wing-356 on October 7th Friday at 12-2pm to have FREE lunch with WIT!🌯🫔🥢
+Ready to hang out with other cute members, chat with new committee and enjoy some delicious Vietnamese food together?🤩💖 We’ll serve pescatarian, vegetarian, vegan and gluten-free options!🤤 Let us know you're coming by simply clicking GOING😍
+
+📢Meanwhile, we'll have our Special General Meeting for these positions:
+👩‍🏫Education Director
+👩‍💼Industry Liaison Director
+👩‍💻Webmaster (IT Director)
+
+If you are unable to attend in person, you are welcome to participate via Zoom: https://unimelb.zoom.us/j/89171169543#success
+
+🗳 Elections will take place during the SGM, and you can nominate yourself or someone else by completing Committee Nomination Form: https://docs.google.com/forms/d/e/1FAIpQLSe6zU0N1ueionUxuTnprprm4f2-Ry-q4c4cJdoC7yKp0q1GNw/viewform
+
+All club members are welcome to nominate themselves or vote!🤗No experience required! Don't forget to sign up if you haven't already✍️ (Free membership): https://umsu.unimelb.edu.au/buddy-up/clubs/clubs-listing/join/7765/
+
+We can't wait to see you there🥰
+</pre>
 
 ## 🔗 Links Table
 |Week|Google Colab|Slides|Topics|
