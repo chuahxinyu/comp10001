@@ -11,8 +11,8 @@
 |Week 8|[Google Colab](https://colab.research.google.com/drive/1WVVooHSSaUnrJ_LyoksnnGbtXjA7VfbU?usp=sharing)|[Google Slides (with answers)](https://docs.google.com/presentation/d/1yXhZhMYS-hVZc5td55rpiRARtmeXQjGMFEB7JahGHEo/edit?usp=sharing)|Libraries, Default Dictionaries, Errors|
 |Week 9|[Google Colab](https://colab.research.google.com/drive/1GMNwtkIue9z7GPfgYtSXqdVvBCEeirmA?usp=sharing)|[Google Slides (with answers)](https://docs.google.com/presentation/d/1tRioaMXDu6wpnr0d4UZqr4LV40J0GQwC4zk--_VqMBM/edit?usp=sharing)|List Comprehensions, Files|
 |Week 10|[Google Colab](https://colab.research.google.com/drive/1K9fycg8mZAF5y5_dWMRlqOiFaEXCnwA8?usp=sharing)|[Google Slides (with answers)](https://docs.google.com/presentation/d/15QXAJaD_ZG5inaB-DeJamBxqhlN_0OVKZD3DfU4RPTU/edit?usp=sharing)|itertools, recursion, Project 2|
-|Week 11|[Google Colab](https://colab.research.google.com/drive/11HqCoigGYpovFgWJkaKZuCv1yama31SQ?usp=sharing)|Google Slides (with answers)||
-|Week 12|[Google Colab](https://colab.research.google.com/drive/1Hs7yH8ipTvHi0p5B1w_qRosyx_9kJ8jL?usp=sharing)|Google Slides (with answers)||
+|Week 11|[Google Colab](https://colab.research.google.com/drive/11HqCoigGYpovFgWJkaKZuCv1yama31SQ?usp=sharing)|[Google Slides (with answers)](https://docs.google.com/presentation/d/1FjgMFQXwrcG6UUEl5NpMGBWlbUi-33Fsvixmk-hM16w/edit?usp=sharing)|HTML, Algorithms|
+|Week 12|[Google Colab](https://colab.research.google.com/drive/1Hs7yH8ipTvHi0p5B1w_qRosyx_9kJ8jL?usp=sharing)|No Slides||
 
 * [Cheatsheet](./notes.md)
 
